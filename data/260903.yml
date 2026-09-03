@@ -1,19 +1,21 @@
 about:
-  description: MCP Server for Ghidra
+  description:
+  |
+    MCP Server for Ghidra
   license: Apache-2.0
   homepage: 
   head: 27f316f
   archived: false
   latestVersion: 1.4
-  collectedAt: 2026-09-03T05:13:48Z
+  collectedAt: 2026-09-03T22:35:38Z
 timeline:
   created: 2025-03-23
   lastCommit: 2025-06-23
   lastRelease: 2025-06-23
 popularity:
-  star: 9932
+  star: 9938
   watcher: 80
-  fork: 1023
+  fork: 1025
   release: 5
   contributor: 9
   pullRequest: 67
@@ -21,7 +23,7 @@ popularity:
 language:
   Java: 68013
   Python: 10886
-totalLine: 78899
+totalBytes: 78899
 recent:
   last30d:
     since: 2026-08-04
