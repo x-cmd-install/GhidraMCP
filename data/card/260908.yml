@@ -5,13 +5,13 @@ about:
   head: 27f316f
   archived: false
   latestVersion: "1.4"
-  collectedAt: 2026-09-08T02:28:34Z
+  collectedAt: 2026-09-08T05:03:49Z
 timeline:
   created: 2025-03-23
   lastCommit: 2025-06-23
   lastRelease: 2025-06-23
 popularity:
-  star: 9972
+  star: 9973
   watcher: 81
   fork: 1024
   release: 5
@@ -80,7 +80,7 @@ total:
   commit: 61
 ---
 path: /home/runner/.x-repo/github.com/LaurieWired/GhidraMCP
-collectedAt: 2026-09-08T02:28:34Z
+collectedAt: 2026-09-08T05:03:49Z
 loc:
   Java:
     code: 1263
