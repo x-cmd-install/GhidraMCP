@@ -22,11 +22,16 @@ x install GhidraMCP
 - **Latest**: `1.4` (2025-06-23)
 - **Last commit**: 2025-06-23
 - **Assets in release**: 1
-- **Published**: 2025-06-23T04:18:18Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [GhidraMCP-release-1-4.zip](https://github.com/LaurieWired/GhidraMCP/releases/download/1.4/GhidraMCP-release-1-4.zip) | 30.4 KiB | `other` |
 
 ## Popularity
 
-- **Stars**: 9,981 · **Forks**: 1,023 · **Open issues**: 87 · **Contributors**: 9
+- **Stars**: 9,990 · **Forks**: 1,024 · **Open issues**: 87 · **Contributors**: 9
 
 ## Totals (cumulative)
 
@@ -57,8 +62,8 @@ Total: **1,704** lines of code across **7** files in the top 5 languages.
 Install metadata for GhidraMCP lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `GhidraMCP` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/GhidraMCP.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/GhidraMCP.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:35:27Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T17:00:08Z._
