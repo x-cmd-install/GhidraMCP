@@ -12,40 +12,7 @@ MCP Server for Ghidra
 x install GhidraMCP
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/LaurieWired/GhidraMCP>
-- **License**: Apache-2.0
-
-## Release
-
-- **Latest**: `1.4` (2025-06-23)
-- **Last commit**: 2025-06-23
-- **Assets in release**: 1
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [GhidraMCP-release-1-4.zip](https://github.com/LaurieWired/GhidraMCP/releases/download/1.4/GhidraMCP-release-1-4.zip) | 30.4 KiB | `other` |
-
-## Popularity
-
-- **Stars**: 9,990 · **Forks**: 1,024 · **Open issues**: 87 · **Contributors**: 9
-
-## Totals (cumulative)
-
-- **Releases**: 5 · **Merged PRs**: 10 · **Open PRs**: 33 · **Closed issues**: 37 · **Open issues**: 50 · **Commits**: 61
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 2 | 0 | 3 | 0 |
-| 360d | 2025-09-15 | 0 | 0 | 24 | 6 | 24 | 0 |
-
-## Code size
+## Code insight
 
 Total: **1,704** lines of code across **7** files in the top 5 languages.
 
@@ -57,6 +24,42 @@ Total: **1,704** lines of code across **7** files in the top 5 languages.
 | Markdown | 0 | 73 | 34 | 1 |
 | Text | 0 | 2 | 0 | 1 |
 
+## Source
+
+- **Upstream**: <https://github.com/LaurieWired/GhidraMCP>
+- **License**: Apache-2.0
+
+## Release
+
+- **Latest**: `1.4` (2025-06-23)
+- **Last commit**: 2025-06-23
+- **Assets in release**: 1
+
+## Popularity
+
+- **Stars**: 9,994 · **Forks**: 1,024 · **Open issues**: 87 · **Contributors**: 9
+
+## Totals (cumulative)
+
+- **Releases**: 5 · **Merged PRs**: 10 · **Open PRs**: 33 · **Closed issues**: 37 · **Open issues**: 50 · **Commits**: 61
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-07-13 | 0 | 0 | 1 | 0 | 2 | 0 |
+| 90d | 2026-06-13 | 0 | 0 | 2 | 0 | 3 | 0 |
+| last180d | 2026-03-15 | 0 | 0 | 8 | 0 | 12 | 0 |
+| 360d | 2025-09-16 | 0 | 0 | 24 | 6 | 24 | 0 |
+| last720d | 2024-09-21 | 5 | 10 | 33 | 37 | 50 | 61 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [GhidraMCP-release-1-4.zip](https://github.com/LaurieWired/GhidraMCP/releases/download/1.4/GhidraMCP-release-1-4.zip) | 30.4 KiB | `other` |
+
 ## Improve this data
 
 Install metadata for GhidraMCP lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `GhidraMCP` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -66,4 +69,4 @@ Install metadata for GhidraMCP lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T17:00:08Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:01:29Z._
