@@ -14,15 +14,15 @@ x install GhidraMCP
 
 ## Code insight
 
-Total: **1,704** lines of code across **7** files in the top 5 languages.
+Total: **2,550** lines of code across **27** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 1,263 | 197 | 229 | 2 |
-| Python | 281 | 11 | 46 | 1 |
-| Xml | 160 | 18 | 14 | 2 |
-| Markdown | 0 | 73 | 34 | 1 |
-| Text | 0 | 2 | 0 | 1 |
+| Java | 1,396 | 94 | 215 | 12 |
+| Python | 1,072 | 25 | 239 | 12 |
+| C | 37 | 2 | 9 | 1 |
+| Toml | 36 | 0 | 8 | 1 |
+| Sh | 9 | 2 | 2 | 1 |
 
 ## Source
 
@@ -31,34 +31,34 @@ Total: **1,704** lines of code across **7** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `1.4` (2025-06-23)
-- **Last commit**: 2025-06-23
+- **Latest**: `2.0` (2026-10-10)
+- **Last commit**: 2026-10-10
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 10,835 · **Forks**: 1,127 · **Open issues**: 87 · **Contributors**: 9
+- **Stars**: 10,962 · **Forks**: 1,142 · **Open issues**: 87 · **Contributors**: 10
 
 ## Totals (cumulative)
 
-- **Releases**: 5 · **Merged PRs**: 10 · **Open PRs**: 35 · **Closed issues**: 37 · **Open issues**: 50 · **Commits**: 61
+- **Releases**: 6 · **Merged PRs**: 10 · **Open PRs**: 37 · **Closed issues**: 37 · **Open issues**: 50 · **Commits**: 64
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 0 | 0 | 3 | 0 | 0 | 0 |
-| last60d | 2026-08-11 | 0 | 0 | 3 | 0 | 1 | 0 |
-| 90d | 2026-07-12 | 0 | 0 | 3 | 0 | 2 | 0 |
-| last180d | 2026-04-13 | 0 | 0 | 7 | 0 | 8 | 0 |
-| 360d | 2025-10-15 | 0 | 0 | 25 | 6 | 22 | 0 |
-| last720d | 2024-10-20 | 5 | 10 | 35 | 37 | 50 | 61 |
+| 30d | 2026-09-11 | 1 | 0 | 4 | 0 | 0 | 3 |
+| last60d | 2026-08-12 | 1 | 0 | 5 | 0 | 1 | 3 |
+| 90d | 2026-07-13 | 1 | 0 | 5 | 0 | 2 | 3 |
+| last180d | 2026-04-14 | 1 | 0 | 9 | 0 | 7 | 3 |
+| 360d | 2025-10-16 | 1 | 0 | 27 | 6 | 22 | 3 |
+| last720d | 2024-10-21 | 6 | 10 | 37 | 37 | 50 | 64 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [GhidraMCP-release-1-4.zip](https://github.com/LaurieWired/GhidraMCP/releases/download/1.4/GhidraMCP-release-1-4.zip) | 30.4 KiB | `other` |
+| [GhidraMCP-release-2-0.zip](https://github.com/LaurieWired/GhidraMCP/releases/download/2.0/GhidraMCP-release-2-0.zip) | 232.9 KiB | `other` |
 
 ## Improve this data
 
@@ -69,4 +69,4 @@ Install metadata for GhidraMCP lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T06:20:34Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T06:14:22Z._
