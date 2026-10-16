@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 238526,
       "digest": "sha256:ebf904fd6782e429e95a60a24fe0724b20c0acb2dedb304135a5281f6b5f2e72",
-      "download_count": 4060,
+      "download_count": 4914,
       "created_at": "2026-10-10T20:06:25Z",
       "updated_at": "2026-10-10T20:06:25Z",
       "browser_download_url": "https://github.com/LaurieWired/GhidraMCP/releases/download/2.0/GhidraMCP-release-2-0.zip"
@@ -78,11 +78,11 @@
   "body": "- Update to latest ghidra 12.1.4\r\n- Remove need for python bridging\r\n- Allow headless mode\r\n- Fix and update tools",
   "reactions": {
     "url": "https://api.github.com/repos/LaurieWired/GhidraMCP/releases/409177073/reactions",
-    "total_count": 26,
+    "total_count": 27,
     "+1": 0,
     "-1": 0,
     "laugh": 0,
-    "hooray": 15,
+    "hooray": 16,
     "confused": 0,
     "heart": 10,
     "rocket": 0,
