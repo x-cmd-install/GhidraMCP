@@ -37,7 +37,7 @@ Total: **2,550** lines of code across **27** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 11,681 · **Forks**: 1,248 · **Open issues**: 94 · **Contributors**: 10
+- **Stars**: 11,695 · **Forks**: 1,252 · **Open issues**: 94 · **Contributors**: 10
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **2,550** lines of code across **27** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 1 | 0 | 8 | 1 | 5 | 3 |
-| last60d | 2026-09-02 | 1 | 0 | 9 | 1 | 6 | 3 |
-| 90d | 2026-08-03 | 1 | 0 | 9 | 1 | 7 | 3 |
-| last180d | 2026-05-05 | 1 | 0 | 12 | 1 | 13 | 3 |
-| 360d | 2025-11-06 | 1 | 0 | 30 | 4 | 23 | 3 |
-| last720d | 2024-11-11 | 6 | 10 | 40 | 38 | 56 | 64 |
+| 30d | 2026-10-03 | 1 | 0 | 8 | 1 | 5 | 3 |
+| last60d | 2026-09-03 | 1 | 0 | 9 | 1 | 6 | 3 |
+| 90d | 2026-08-04 | 1 | 0 | 9 | 1 | 7 | 3 |
+| last180d | 2026-05-06 | 1 | 0 | 12 | 1 | 13 | 3 |
+| 360d | 2025-11-07 | 1 | 0 | 30 | 4 | 23 | 3 |
+| last720d | 2024-11-12 | 6 | 10 | 40 | 38 | 56 | 64 |
 
 ## Release assets
 
@@ -69,4 +69,4 @@ Install metadata for GhidraMCP lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:32:01Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:33:55Z._
